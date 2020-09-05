@@ -42,14 +42,14 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: linkedin-in
+- icon: linkedin
   icon_pack: fab
   link: "https://www.linkedin.com/in/kamleshmugdiya"
 - icon: hackerrank
   icon_pack: fab
   link: "https://www.hackerrank.com/profile/Kilo_Mike"
 - icon: envelope
-  icon_pack: fab
+  icon_pack: fas
   #link: '#contact'  # For a direct email link, use "mailto:test@example.org"
   link: "mailto:kamleshmugdiya@gmail.com"
 - icon: instagram
