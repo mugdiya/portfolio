@@ -25,9 +25,11 @@ date_format = "Jan 2006"
   date_start = "2020-07-09"
   date_end = ""
   description = """
-  • Created a Python script to migrate data from Oracle to MongoDB.
-  • Created a utility in Golang to mask sensitive data in a text.
-  • My work mainly involves designing, writing, consuming HTTP-REST APIs.
+  Created a Python script to migrate data from Oracle to MongoDB.
+  
+  Created a utility in Golang to mask sensitive data in a text.
+
+  My work mainly involves designing, writing, consuming HTTP-REST APIs.
   """
 
 [[experience]]
