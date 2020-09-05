@@ -43,13 +43,13 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: linkedin-in
-  icon_pack: fas
+  icon_pack: fab
   link: "https://www.linkedin.com/in/kamleshmugdiya"
 - icon: hackerrank
-  icon_pack: fas
+  icon_pack: fab
   link: "https://www.hackerrank.com/profile/Kilo_Mike"
 - icon: envelope
-  icon_pack: fas
+  icon_pack: fab
   #link: '#contact'  # For a direct email link, use "mailto:test@example.org"
   link: "mailto:kamleshmugdiya@gmail.com"
 - icon: instagram
