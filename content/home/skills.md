@@ -43,7 +43,7 @@ subtitle = ""
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
   [[feature]]
-  icon = "assets/images/icon-pack/skills/cplusplus"
+  icon = "skills/cplusplus"
   icon_pack = "custom"
   name = "C++"
 #  description = "90%"
@@ -55,43 +55,43 @@ subtitle = ""
 #  description = "90%"
 
 [[feature]]
-  icon = "assets/images/icon-pack/skills/spring"
+  icon = "skills/spring"
   icon_pack = "custom"
   name = "Spring"
 #  description = "90%"
 
 [[feature]]
-  icon = "assets/images/icon-pack/skills/python"
+  icon = "skills/python"
   icon_pack = "custom"
   name = "Python"
 #  description = "90%"
 
 [[feature]]
-  icon = "assets/images/icon-pack/skillspostgresql"
+  icon = "skills/postgresql"
   icon_pack = "custom"
   name = "PostgreSQL"
 #  description = "90%"
 
 [[feature]]
-  icon = "assets/images/icon-pack/skillsmongodb"
+  icon = "skills/mongodb"
   icon_pack = "custom"
   name = "MongoDB"
 #  description = "90%"
 
 [[feature]]
-  icon = "assets/images/icon-pack/skillsubuntu"
+  icon = "skills/ubuntu"
   icon_pack = "custom"
   name = "Ubuntu"
 #  description = "90%"
 
 [[feature]]
-  icon = "assets/images/icon-pack/skillsgit"
+  icon = "skills/git"
   icon_pack = "custom"
   name = "Git"
 #  description = "90%"
 
 [[feature]]
-  icon = "assets/images/icon-pack/skillsjson"
+  icon = "skills/json"
   icon_pack = "custom"
   name = "JSON"
 #  description = "90%"
