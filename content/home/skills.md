@@ -49,7 +49,7 @@ subtitle = ""
 #  description = "90%"
 
 [[feature]]
-  icon = "assets/images/icon-pack/skills/java"
+  icon = "skills/java"
   icon_pack = "custom"
   name = "Java"
 #  description = "90%"
