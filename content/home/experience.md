@@ -25,11 +25,11 @@ date_format = "Jan 2006"
   date_start = "2020-07-09"
   date_end = ""
   description = """
-  Created a Python script to migrate data from Oracle to MongoDB.
+  * Created a Python script to migrate data from Oracle to MongoDB.
   
-  Created a utility in Golang to mask sensitive data in a text.
+  * Created a utility in Golang to mask sensitive data in a text.
 
-  My work mainly involves designing, writing, consuming HTTP-REST APIs.
+  * My work mainly involves designing, writing, consuming HTTP-REST APIs.
   """
 
 [[experience]]
@@ -39,6 +39,10 @@ date_format = "Jan 2006"
   location = "Mumbai"
   date_start = "2018-07-23"
   date_end = "2020-07-08"
-  description = """Created and tested problems used in various coding contests hosted by TCS like CodeVita."""
+  description = """
+  * Created and tested problems used in various coding contests hosted by TCS like CodeVita.
+  
+  * Cleared TCS internal Digital assessment.
+  """
 
 +++
