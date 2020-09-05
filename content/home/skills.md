@@ -74,7 +74,7 @@ subtitle = ""
 
 [[feature]]
   icon = "mongodb"
-  icon_pack = "skills"
+  icon_pack = "customm"
   name = "MongoDB"
 #  description = "90%"
 
