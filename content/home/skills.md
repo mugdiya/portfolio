@@ -43,56 +43,56 @@ subtitle = ""
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
   [[feature]]
-  icon = "assets/images/icon-pack/cplusplus"
-  icon_pack = "assets/images/icon-pack/skills"
+  icon = "assets/images/icon-pack/skills/cplusplus"
+  icon_pack = "custom"
   name = "C++"
 #  description = "90%"
 
 [[feature]]
-  icon = "assets/images/icon-pack/java"
-  icon_pack = "assets/images/icon-pack/skills"
+  icon = "assets/images/icon-pack/skills/java"
+  icon_pack = "custom"
   name = "Java"
 #  description = "90%"
 
 [[feature]]
-  icon = "assets/images/icon-pack/spring"
-  icon_pack = "skills"
+  icon = "assets/images/icon-pack/skills/spring"
+  icon_pack = "custom"
   name = "Spring"
 #  description = "90%"
 
 [[feature]]
-  icon = "skills/python"
-  icon_pack = "skills"
+  icon = "assets/images/icon-pack/skills/python"
+  icon_pack = "custom"
   name = "Python"
 #  description = "90%"
 
 [[feature]]
-  icon = "postgresql"
-  icon_pack = "skills"
+  icon = "assets/images/icon-pack/skillspostgresql"
+  icon_pack = "custom"
   name = "PostgreSQL"
 #  description = "90%"
 
 [[feature]]
-  icon = "mongodb"
-  icon_pack = "customm"
+  icon = "assets/images/icon-pack/skillsmongodb"
+  icon_pack = "custom"
   name = "MongoDB"
 #  description = "90%"
 
 [[feature]]
-  icon = "ubuntu"
-  icon_pack = "skills"
+  icon = "assets/images/icon-pack/skillsubuntu"
+  icon_pack = "custom"
   name = "Ubuntu"
 #  description = "90%"
 
 [[feature]]
-  icon = "git"
-  icon_pack = "skills"
+  icon = "assets/images/icon-pack/skillsgit"
+  icon_pack = "custom"
   name = "Git"
 #  description = "90%"
 
 [[feature]]
-  icon = "json"
-  icon_pack = "skills"
+  icon = "assets/images/icon-pack/skillsjson"
+  icon_pack = "custom"
   name = "JSON"
 #  description = "90%"
 
