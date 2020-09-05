@@ -45,6 +45,9 @@ social:
 - icon: linkedin-in
   icon_pack: fas
   link: "https://www.linkedin.com/in/kamleshmugdiya"
+- icon: hackerrank
+  icon_pack: fas
+  link: "https://www.hackerrank.com/profile/Kilo_Mike"
 - icon: envelope
   icon_pack: fas
   #link: '#contact'  # For a direct email link, use "mailto:test@example.org"
