@@ -44,13 +44,13 @@ subtitle = ""
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
   [[feature]]
   icon = "cplusplus"
-  icon_pack = "skills"
+  icon_pack = "assets/images/icon-pack/skills"
   name = "C++"
 #  description = "90%"
 
 [[feature]]
   icon = "java"
-  icon_pack = "skills"
+  icon_pack = "assets/images/icon-pack/skills"
   name = "Java"
 #  description = "90%"
 
