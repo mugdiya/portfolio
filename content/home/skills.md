@@ -43,19 +43,19 @@ subtitle = ""
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
   [[feature]]
-  icon = "cplusplus"
+  icon = "assets/images/icon-pack/cplusplus"
   icon_pack = "assets/images/icon-pack/skills"
   name = "C++"
 #  description = "90%"
 
 [[feature]]
-  icon = "java"
+  icon = "assets/images/icon-pack/java"
   icon_pack = "assets/images/icon-pack/skills"
   name = "Java"
 #  description = "90%"
 
 [[feature]]
-  icon = "spring"
+  icon = "assets/images/icon-pack/spring"
   icon_pack = "skills"
   name = "Spring"
 #  description = "90%"
